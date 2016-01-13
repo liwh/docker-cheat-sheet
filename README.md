@@ -3,6 +3,7 @@
 NOTE: This used to be a gist that continually expanded.  It's now a github project because it's considerably easier for other people to edit, fix and expand on Docker using Github.  Just click  [README.md](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md), and then on the "writing pen" icon on the right to edit.
 
 * [Why](#why)
+* [Why](#why)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Containers](#containers)
@@ -513,4 +514,4 @@ Nice web UI, will let you set up and download multiple docker containers.
 
 * [Vessel](http://awvessel.github.io/)
 
-Vessel automates the setup & use of dockerized development environments 
+Vessel automates the setup & use of dockerized development environments
